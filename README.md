@@ -1,4 +1,4 @@
 # fe-program
 
 - [Preview](https://antonshpakovych.github.io/fe-program/)
-- [Pull Request](https://github.com/AntonShpakovych/fe-program/pull/1/files)
+- [Pull Request](https://github.com/antonshpakovych/fe-program/pull/1/files)
